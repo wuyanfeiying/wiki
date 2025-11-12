@@ -1,0 +1,25 @@
+# 操作系统
+.DS_Store
+Thumbs.db
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 临时文件
+*.tmp
+*.temp
+.drafts/
+
+# 敏感信息
+*secret*
+*password*
+*.key
+
+# 备份文件
+*.bak
+*.backup
+
